@@ -4,7 +4,6 @@
 
 ## 👋 About Me
 
-```yaml
 name: Jash Khatri
 role: B.Tech Computer Engineering Student
 interests:
@@ -51,4 +50,4 @@ Technologies: Godot, GDScript, Lua
 🐍 Contribution Snake
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frostwave-afk/Frostwave-afk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frostwave-afk/Frostwave-afk/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/Frostwave-afk/Frostwave-afk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </picture> </p>
 🔗 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/jash-khatri-323643378/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/> </p> ```
+<p align="left"> <a href="https://www.linkedin.com/in/jash-khatri-323643378/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/> </p>
