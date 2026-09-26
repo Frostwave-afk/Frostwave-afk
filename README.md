@@ -2,21 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Frostwave!&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jash-khatri-323643378/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="35" height="35"/>
-  </a>
-  <a href="https://dev.to/YOUR-DEVTO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="dev.to" width="35" height="35"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" width="35" height="35"/>
-  </a>
-</p>
-
 ## About Me
 
 ```yaml
@@ -71,15 +56,6 @@ fun_fact: still figuring that one out
 <p align="center">
   <a href="https://www.linkedin.com/in/jash-khatri-323643378/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="35" height="35"/>
-  </a>
-  <a href="https://dev.to/YOUR-DEVTO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="dev.to" width="35" height="35"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" width="35" height="35"/>
   </a>
 </p>
 
