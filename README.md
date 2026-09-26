@@ -1,4 +1,4 @@
-`markdown
+markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Jash%20Khatri!&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=ffffff" width="100%"/>
 </p>
